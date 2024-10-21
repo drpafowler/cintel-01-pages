@@ -2,7 +2,7 @@
 
 My first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
+## Links 
 
 Here's a clickable link: [Microsoft CoPilot](https://github.com/features/copilot)
 
