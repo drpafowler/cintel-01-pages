@@ -1,4 +1,4 @@
-# My Website Title 
+# Philip's Github Website 
 
 My first website using Markdown and GitHub Pages.
 
@@ -8,7 +8,7 @@ Here's a clickable link: [Microsoft CoPilot](https://github.com/features/copilot
 
 ## Images
 
-Images look like links except with an exclamation directly in front
+This bicycle was squished by a bus.  RIP old bicycle.
 
 ![My Old Bicycle](20140624_095545.jpg)
 
